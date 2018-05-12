@@ -1,11 +1,16 @@
 _repo: An-Essay-on-War-in-Blank-Verse--Honington-Green-a-Ballad--the-Culprit-an-Elegy--and-Other-Poe__11564
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bloomfield, Nathaniel
     gutenberg_agent_id: '4030'
     url: http://www.gutenberg.org/2009/agents/4030
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11564#An-Essay-on-War-in-Blank-Verse--Honington-Green-a-Ballad--the-Culprit-an-Elegy--and-Other-Poe_
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
